@@ -1,0 +1,19 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  background: #ffffff;
+  border: none;
+}
+
+input::placeholder {
+  color: #6c757d;
+  font-size: 14px;
+}
+
+#qrcode img {
+  border: 8px solid #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+}
